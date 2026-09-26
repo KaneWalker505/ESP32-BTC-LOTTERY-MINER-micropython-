@@ -7,3 +7,5 @@ A esp32 btc lottery miner example script for MicroPython framework
 https://micropython.org/download/ESP32_GENERIC/
 
 # Install this Example .py over to board
+
+https://github.com/KaneWalker505/ESP32-BTC-LOTTERY-MINER-micropython-/blob/main/ESP32-BTC-MINER.py
