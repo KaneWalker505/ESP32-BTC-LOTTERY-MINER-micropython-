@@ -4,7 +4,6 @@ This is a example of how to make a esp32 solo lottery mine using MicroPython.
 Script created by (Dakota Coppler)
 """
 
-
 import network
 import socket
 import json
